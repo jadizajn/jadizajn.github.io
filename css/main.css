@@ -927,8 +927,7 @@ input::-moz-focus-inner {
   a:active {
     outline: 0;
   }
-   }  
-
+    
 /* ------------------------------------------------------------------- 
  * ## additional typo styles 
  * ------------------------------------------------------------------- */
@@ -2781,7 +2780,7 @@ input::-moz-focus-inner {
 }
 
 .item-folio__thumb .thumb-link {
-  display: block;
+  display: block !important;
   position: relative;
 }
 
